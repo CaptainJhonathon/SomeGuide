@@ -7,3 +7,9 @@ SomeGuide mean something to guide.I actually thought you will need something to 
 building at an early stage  
 
 
+# Written behind
+The project however it's not a tutorial.Some technical details you'd better to check in their official documents and manuals.
+
+We offer easier introduction and try to tell you how use thses useful tools while you may encounter unexpected problems.
+
+# May these files help you!
