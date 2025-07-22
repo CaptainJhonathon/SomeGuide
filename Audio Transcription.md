@@ -41,8 +41,6 @@ Installation is easy and Support is convenient.
 
 need about 10 GB space
 
-PS: whisper only support English output
-
 ----
 ### 3. buzz
 
