@@ -1,0 +1,31 @@
+[Windows SDK requirements]
+comctl32.lib
+gdiplus.lib
+ws2_32.lib
+
+[Normal Libs]
+fltk.lib
+fltk_forms.lib
+fltk_gl.lib
+fltk_images.lib
+fltk_jpeg.lib
+fltk_png.lib
+fltk_z.lib
+
+[Debug Libs]
+fltkd.lib
+fltk_formsd.lib
+fltk_gld.lib
+fltk_imagesd.lib
+fltk_jpegd.lib
+fltk_pngd.lib
+fltk_zd.lib
+
+[pdb]
+fltkd.pdb
+fltk_formsd.pdb
+fltk_gld.pdb
+fltk_imagesd.pdb
+fltk_jpegd.pdb
+fltk_pngd.pdb
+fltk_zd.pdb
