@@ -1,0 +1,2 @@
+# 1. [Eyeproject (from github, windows only)](https://github.com/Planshit/ProjectEye)
+the eyeproject is written by c#. The software gives a plan which able to configure by owner helping to remind people take a break.
