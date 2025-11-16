@@ -107,6 +107,9 @@ Finding "Linker", in "General", paste your fltk libs path to "Additional Library
 
 # However you need to know
 
+## Update in 2025/11
+I'm not recommend using VS to continue your project (unless you get a reason). Using cmake to organise the c/c++ project will get cross-platform and more light-weight for your development space.
+
 ## How can I know what library should I specify?
 All the libraries that compile needs can be found at the official documents.
 
