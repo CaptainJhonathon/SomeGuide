@@ -8,8 +8,6 @@ The ffmpeg is a powerful media transformer but in cli reactive way.
 
 ### 2. Install by **chocolatey** (recomended)
 
-
-
 the chocolatey is like a package manager in Windows.
 
 you can follow the instructions from the official to install chocolatey.
@@ -20,6 +18,5 @@ Once you installed, simply using:
 choco install ffmpeg
 ```
 
-![chocolatey logo](https://chocolatey.org/assets/images/global-shared/logo.svg "chocolatey logo")
-
-![chocolatey logo](https://chocolatey.org/assets/images/global-shared/logo-square.svg "chocolatey logo")
+## Linux
+Simply use package manager (dnf apt pacman) to search and intatll it.

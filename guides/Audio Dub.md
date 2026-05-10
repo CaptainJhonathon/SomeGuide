@@ -1,5 +1,8 @@
 # Audio Dubbing
 ## Introduction
+
+However, this guide is only proved on Windows.
+
 This file provide a AI related tool to meet the requitement of **Audio Dubbing**. Some of us don't want to expose personal voice then tring to use AI and some materials, making a model to transfer text into audio whatever you want.
 
 ## GPT-SoVITS

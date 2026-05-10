@@ -1,4 +1,4 @@
-# configure dnsmasq on unix and linux
+# dnsmasq configure on unix and linux
 
 **_Best reference dnsmasq [setup.html mirror to and by myself](./storing/ref/dnsmasq/setup.html). Under source code of dnsmasq..._**
 
@@ -82,3 +82,5 @@ After that, you can start to configure dnsmasq by mannual.
     ps: the query order is from top to bottom.
 
 3. Edit dnsmasq.conf or run without .conf file
+
+dev...

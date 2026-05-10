@@ -1,5 +1,7 @@
 # Git using submodules functions
 
+[Refer to git pro book about submoudle](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
 To use git submodule is simple, if you 
 do notice your orders.
 
