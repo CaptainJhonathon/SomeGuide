@@ -11,3 +11,4 @@ So you might want to check their mannual.
 Don't be afriad to read mannual, OK?  
 There will be more, and if you like computers.  
 You'll have to get used to it.
+ 
