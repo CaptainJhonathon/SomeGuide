@@ -81,6 +81,17 @@ After that, you can start to configure dnsmasq by mannual.
 
     ps: the query order is from top to bottom.
 
-3. Edit dnsmasq.conf or run without .conf file
+3. Edit /etc/dnsmasq.conf or run without .conf file
 
-dev...
+    To edit config-file, ucomment:
+    ```
+    strict-order
+    ```
+
+4. Set upstream DNS server by editing /etc/resolv.conf if you needs
+
+5. Add your own map domain name in /etc/hosts
+
+6. If you want to test on DNS server itself, you should edit /etc/dnsmasq.conf and uncomment the __listen-address__, relavent info consider comments around it.
+
+Now you can try test your own new DNS, remember to set DNS at client role machine.
